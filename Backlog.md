@@ -7,3 +7,4 @@
 - sound organ with rasberripy
 - daily deal aggregator android app
 - setup internal hostname for server
+- look into https://github.com/mmozuras/pronto to automate parts of PR
