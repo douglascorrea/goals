@@ -6,3 +6,4 @@
 - finish highlighter
 - sound organ with rasberripy
 - daily deal aggregator android app
+- setup internal hostname for server
