@@ -7,7 +7,7 @@
 - Dragonball Xenoverse
 - Braid
 - Sunset Overdrive DLC
-- Dragon Age Inquisition DLC
+- ~~Dragon Age Inquisition DLC~~
 - Witcher dlc
 
 ## Games to Play
@@ -15,3 +15,5 @@
 - Kameo
 - Mad Max
 - Lords of the Fallen
+- Dragon Age DLC
+- Fallout 4 DLC
