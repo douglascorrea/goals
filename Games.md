@@ -9,6 +9,8 @@
 - Sunset Overdrive DLC
 - ~~Dragon Age Inquisition DLC~~
 - Witcher dlc
+- Shadow complex
+- Undertow
 
 ## Games to Play
 - Mass Effect 3 again
@@ -17,3 +19,4 @@
 - Lords of the Fallen
 - Dragon Age DLC
 - Fallout 4 DLC
+- Shadow of Mordor DLC

@@ -8,3 +8,8 @@
 - daily deal aggregator android app
 - setup internal hostname for server
 - look into https://github.com/mmozuras/pronto to automate parts of PR
+- figure out what babel does
+- figure out what gulp does
+- figure out what webpack does
+- clean apartment
+- invest time into making atom similar to ruby mine (ctrl + click, ctrl + w)
