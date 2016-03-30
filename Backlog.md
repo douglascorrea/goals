@@ -12,4 +12,7 @@
 - figure out what gulp does
 - figure out what webpack does
 - clean apartment
+- season cast iron skillets
 - invest time into making atom similar to ruby mine (ctrl + click, ctrl + w)
+- look into light table editor
+- learn vim
