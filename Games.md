@@ -1,4 +1,4 @@
-## Games to get
+# Games to get
 - Assassin's Creed Rogue
 - Assassin's Creed Syndicate
 - Unravel
@@ -12,7 +12,7 @@
 - Shadow complex
 - Undertow
 
-## Games to Play
+# Games to Play
 - Mass Effect 3 again
 - Kameo
 - Mad Max

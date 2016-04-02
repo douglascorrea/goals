@@ -1,5 +1,5 @@
 ## Backlog
-- elm plots/visual
+- elm plots/visualRuby Performance Optimization
 - elm google analytics (elmalytics)
 - elm test runner
 - elm proto buffs
@@ -16,3 +16,4 @@
 - invest time into making atom similar to ruby mine (ctrl + click, ctrl + w)
 - look into light table editor
 - learn vim
+- look into using xbox one as dev kit for app development
