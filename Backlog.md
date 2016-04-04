@@ -1,24 +1,31 @@
-## Backlog
-- elm plots/visualRuby Performance Optimization
+# Backlog
+## Project Ideas
+- elm plots/visual
 - elm google analytics (elmalytics)
 - elm test runner
 - elm proto buffs
 - finish highlighter
 - sound organ with rasberripy
 - daily deal aggregator android app
-- setup internal hostname for server
-- look into https://github.com/mmozuras/pronto to automate parts of PR
+
+## Code
+- look into [https://github.com/mmozuras/pronto](https://github.com/mmozuras/pronto) to automate parts of PR
 - figure out what babel does
 - figure out what gulp does
 - figure out what webpack does
-- clean apartment
-- season cast iron skillets
 - invest time into making atom similar to ruby mine (ctrl + click, ctrl + w)
 - look into light table editor
 - learn vim
 - look into using xbox one as dev kit for app development
 - using gradle daemon with react-native
-- a js linter for es6/react
-- reducing boilerplate code
-- isomorphic-fetch and babel-polyfill
+- find a js linter for es6/react
+- investigate reducing boilerplate code
+- look into why isomorphic-fetch and babel-polyfill are suggested in redux docs
 - react prop types and if they are turned off in production
+
+## Home
+- buy a grill
+- buy a new sweeper
+- season cast iron skillets
+- setup internal hostname for server
+- speaker stands
