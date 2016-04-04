@@ -17,3 +17,8 @@
 - look into light table editor
 - learn vim
 - look into using xbox one as dev kit for app development
+- using gradle daemon with react-native
+- a js linter for es6/react
+- reducing boilerplate code
+- isomorphic-fetch and babel-polyfill
+- react prop types and if they are turned off in production

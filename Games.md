@@ -20,3 +20,4 @@
 - Dragon Age DLC
 - Fallout 4 DLC
 - Shadow of Mordor DLC
+- Tomb Raider DLC
