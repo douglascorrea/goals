@@ -7,6 +7,7 @@
 - finish highlighter
 - sound organ with rasberripy
 - daily deal aggregator android app
+- phoenix project to take advantage of concurrent connections
 
 ## Code
 - look into [https://github.com/mmozuras/pronto](https://github.com/mmozuras/pronto) to automate parts of PR
@@ -22,6 +23,8 @@
 - investigate reducing boilerplate code
 - look into why isomorphic-fetch and babel-polyfill are suggested in redux docs
 - react prop types and if they are turned off in production
+- look into https://github.com/markdalgleish/redux-analytics 
+- look into https://github.com/gaearon/normalizr for deeply nested json returned back from APIs
 
 ## Home
 - buy a grill
