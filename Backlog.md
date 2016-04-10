@@ -30,5 +30,4 @@
 - buy a grill
 - buy a new sweeper
 - season cast iron skillets
-- setup internal hostname for server
-- speaker stands
+- buy machine washable shower curtain

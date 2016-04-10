@@ -6,16 +6,21 @@
 
 # This week
 - [x] Investigate how to use native components such as custom chrome tabs for react-native android (example of native UI components)
-- [ ] Add documentation to react native example repo
+- [x] Add documentation to repo top level 
+- [ ] Add documentation to repo for domain layer 
+- [x] Add documentation to repo for web
+- [ ] Add documentation to repo for react native 
 - [x] See if nuclide will speed up react-native development
 - [x] Investigate unit testing react components
+- [ ] Investigate unit testing react native components
 - [ ] Investigate unit testing redux reducers
-- [ ] Find ways to integration test domain-layer and apps
-- [ ] Investigate immutable.js
+- [x] Find ways to integration test domain-layer and web
+- [ ] Find ways to integration test domain-layer and react-native
+- [x] Investigate immutable.js
 - [ ] Sweep floors in living, dining, and bed room
 - [ ] Clean kitchen
 - [ ] Clean bathroom
-- [ ] Buy filing cabinet from Walmart
+- [x] Buy filing cabinet from Walmart
 
 # Week in review
 I was able to setup unit testing for react components using the following packages: 
@@ -29,7 +34,20 @@ Overall I was very surprised on how easy it was to setup and how easy it is to t
 
 While I was exploring testing I also found out how to make [code snippets](https://github.com/atom/snippets) in Atom. They are much easier to create and use than IntelliJ's. 
 
-[https://github.com/indexiatech/redux-immutablejs](https://github.com/indexiatech/redux-immutablejs) [http://appium.io/](http://appium.io/) for react native tests
+Boilerplate reduction/test plan for redux 
+- Action
+  - DONE Use makeActionCreator from http://redux.js.org/docs/recipes/ReducingBoilerplate.html to create sync actions 
+  - DONE only unit test this function 
+  - unit test async action creator using https://github.com/arnaudbenard/redux-mock-store and https://github.com/node-nock/nock
+- Reducers 
+  - use https://github.com/indexiatech/redux-immutablejs for immutability and reducer creator 
+  - use actions creators as part of reducer unit test to reduce boilerplate and since they are already tested
+- Gaps 
+  - true return values of async actions are not tested because they are mocked by nock, create a small number of happy path async integration between action creator and reducer 
+- move actions consts reducers into single file since they go together
+- look at async middleware to reduce boilerplate http://redux.js.org/docs/recipes/ReducingBoilerplate.html
+
+Look into  [https://github.com/indexiatech/redux-immutablejs](https://github.com/indexiatech/redux-immutablejs) [http://appium.io/](http://appium.io/) for react native tests 
 
 ## Thoughts on nuclide
 - mercurial support for things like blame and local change diff but not for git
@@ -57,7 +75,7 @@ Enzyme is a testing framework for React and React-Native
 - ability to mix and match test runners, expectation libraries, and DOMS
 
 ## Setting up enzyme with mocha, chai, and sinon
-- `npm i --save-dev react-addons-test-utils mocha chai sinon enzyme jsdom babel-preset-es2015 babel-preset-react babel-core`
+- `npm i --save-dev react-addons-test-utils mocha chai sinon enzyme jsdom babel-preset-es2015 babel-preset-react babel-register`
 - copy setup.js file [for jsom](http://airbnb.io/enzyme/docs/guides/jsdom.html)
 - update .babelrc
 
