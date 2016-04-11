@@ -11,7 +11,6 @@
 
 ## Code
 - look into [https://github.com/mmozuras/pronto](https://github.com/mmozuras/pronto) to automate parts of PR
-- figure out what babel does
 - figure out what gulp does
 - figure out what webpack does
 - invest time into making atom similar to ruby mine (ctrl + click, ctrl + w)
@@ -20,9 +19,6 @@
 - look into using xbox one as dev kit for app development
 - using gradle daemon with react-native
 - find a js linter for es6/react
-- investigate reducing boilerplate code
-- look into why isomorphic-fetch and babel-polyfill are suggested in redux docs
-- react prop types and if they are turned off in production
 - look into https://github.com/markdalgleish/redux-analytics 
 - look into https://github.com/gaearon/normalizr for deeply nested json returned back from APIs
 
