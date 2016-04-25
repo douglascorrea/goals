@@ -10,8 +10,9 @@
 - [ ] Add getting achievements to the domain layer
 - [ ] Add getting friends to the domain layer
 - [ ] Find a way to get game information
-- [ ] Investigate react native libraries looking for UI components
+- [ ] Start reading Serverless Single Page Apps
 - [ ] Create repository for xbox sidekick android app
+- [ ] Investigate react native libraries looking for UI components
 
 # Week in review
 
