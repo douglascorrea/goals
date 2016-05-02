@@ -26,7 +26,5 @@
 - vim
 
 ## Home
-- buy a grill
-- buy a new sweeper
-- season cast iron skillets
+- buy a sweeper
 - buy machine washable shower curtain

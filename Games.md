@@ -1,4 +1,5 @@
 # Games to get
+
 - Assassin's Creed Rogue
 - Assassin's Creed Syndicate
 - Unravel
@@ -13,9 +14,10 @@
 - Undertow
 
 # Games to Play
+
 - Mass Effect 3 again
 - Kameo
-- Mad Max
+- ~~Mad Max~~
 - Lords of the Fallen
 - Dragon Age DLC
 - Fallout 4 DLC
