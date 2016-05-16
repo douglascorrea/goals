@@ -7,9 +7,11 @@
 
 # This week
 
-- [ ] Add getting achievements to the domain layer
-- [ ] Add getting friends to the domain layer
-- [ ] Find a way to get game information
+- [ ] Add getting xbox 360 achievements to the domain layer
+- [ ] Add achievement image url to xbox 360 achievements
+- [ ] Add box art url to xbox 360 history
+- [ ] Add box art url to xbox one history
+- [ ] Figure out authentication to xbox live
 - [ ] Buy an electric grill
 
 # Week in review
