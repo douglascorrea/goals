@@ -7,15 +7,11 @@
 
 # This week
 
-- [ ] Add getting xbox 360 achievements to the domain layer
-- [ ] Add achievement image url to xbox 360 achievements
-- [ ] Add box art url to xbox 360 history
-- [ ] Add box art url to xbox one history
 - [ ] Figure out authentication to xbox live
-- [ ] Buy an electric grill
+- [ ] Find out what is wrong with backup chron jobs
 
 # Week in review
 
 # Games of the week
 
--
+- 
