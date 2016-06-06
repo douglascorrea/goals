@@ -8,10 +8,10 @@
 # This week
 
 - [ ] Figure out authentication to xbox live
-- [ ] Find out what is wrong with backup chron jobs
-- [ ] Address any comments on https://github.com/elm-lang/package.elm-lang.org/pull/180
-- [ ] Find next elm contribution 
+- [ ] First cut of elm-everything that includes the two google groups
 
 # Week in review
 
+
 # Games of the week
+- Fallout 4
