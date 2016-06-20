@@ -7,16 +7,14 @@
 
 # This week
 
-- [ ] Create logo for elm-news
-- [ ] Figure out color palette and style for elm-news
-- [ ] Something to signify loading for elm-news
 - [ ] Handle errors for elm-news
 - [ ] Google analytics elm-news
-- [ ] Enjoy E3 by watching the conferences and tons of game videos!
-
+- [ ] Create more newsy icon
+- [ ] Share elm-news
+- [ ] Start on elm-svg
 
 # Week in review
 
-
 # Games of the week
+
 -
