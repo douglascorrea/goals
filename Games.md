@@ -6,7 +6,6 @@
 - Banner Saga
 - Dragonball Xenoverse
 - Braid
-- Sunset Overdrive DLC
 - Witcher dlc
 - Undertow
 
@@ -14,11 +13,7 @@
 
 - Mass Effect 3 again
 - Kameo
-- ~~Mad Max~~
 - Lords of the Fallen
 - Dragon Age DLC
-- Fallout 4 DLC
 - Shadow of Mordor DLC
 - Tomb Raider DLC
-- Unravel
-- Shadow complex
