@@ -7,14 +7,14 @@
 
 # This week
 
-- [ ] Handle errors for elm-news
-- [ ] Google analytics elm-news
-- [ ] Create more newsy icon
-- [ ] Share elm-news
-- [ ] Start on elm-svg
+- [ ] Finish pagination for elm news
+- [ ] Share elm news on elm discuss
+- [ ] Create hacker news account
+- [ ] Share elm news on hacker news
+- [ ] Start on elm-xml
 
 # Week in review
 
 # Games of the week
 
--
+- Dragon Age Inqusition
